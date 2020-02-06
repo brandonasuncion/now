@@ -4,9 +4,6 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-
-<br>
 
 ## Upcoming
 - Improved month view on compact size-class devices
@@ -15,10 +12,19 @@ include_in_header: true
 
 <br>
 
+# Changelog
 
-# **Version 1.0**
+### `Latest`
+## Version 1.0.1
 
-### `Initial Release` `Latest`
+#### Changes
+- Small visual changes to card popups.
+- Fixed bug where an invalid event name would cause the app to crash on startup.
+
+<br>
+
+
+### `Initial Release`
 ## Version 1.0.0
 
 Initial release to App Store.
