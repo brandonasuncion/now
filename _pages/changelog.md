@@ -8,17 +8,17 @@ include_in_header: true
 
 <br>
 
-#### Upcoming
+## Upcoming
 - Improved month view on compact size-class devices
 - Better event visualization on day view
-- Visual details to card detail views
+- Miscellaneous visual details to card detail views
 
 <br>
 
-### `Latest`
+
 # **Version 1.0**
 
-### `Initial Release`
+### `Initial Release` `Latest`
 ## Version 1.0.0
 
 Initial release to App Store.
