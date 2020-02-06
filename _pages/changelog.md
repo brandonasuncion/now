@@ -8,11 +8,20 @@ include_in_header: true
 
 <br>
 
+#### Upcoming
+- Improved month view on compact size-class devices
+- Better event visualization on day view
+- Visual details to card detail views
+
+<br>
+
 ### `Latest`
-### `Initial Release`
 # **Version 1.0**
 
+### `Initial Release`
 ## Version 1.0.0
+
+Initial release to App Store.
 
 #### Features
 - Continuous calendar allows you to see your daily events and reminders at a glance and helps you coordinate across multiple days at a time.
@@ -20,11 +29,6 @@ include_in_header: true
 - Month planner gives an overview of tasks planned over the month to help you keep on top of everything.
 - Detail cards give quick information on events and reminders.
 - Synchronizes with iCloud Calendar for integration with multiple devices.
-
-#### Upcoming
-- Improved month view on compact size-class devices
-- Better event visualization on day view
-- Visual details to card detail views
 
 
 <br>
