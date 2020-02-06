@@ -1,5 +1,4 @@
 <footer>
-	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
 	<div class="footerIcons">
 
 		{% if site.facebook_username %}
@@ -29,7 +28,7 @@
 			</a>
 		{% endif %}
 
-		{% if site.your_link %}
+		{% if site.your_link_footer %}
 			<a href="{{ site.your_link }}">
 				<span class="fa-stack fa-1x">
 					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
@@ -56,4 +55,5 @@
 			<a href="{{ site.presskit_download_link }}">Press Kit</a>
 		{% endif %}
 	</div>
+	<p class="footerText">{% if site.copyright %}{{ site.your_link }}{% endif %}</p>
 </footer>

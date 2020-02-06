@@ -21,6 +21,7 @@ enable_smart_app_banner                   : false                               
 # Information About Yourself
 your_name                                 : Brandon Asuncion                                
 your_link                                 : https://brandonasuncion.dev/                     
+your_link_footer                          : 
 your_city                                 : Los Angeles                                
 email_address                             : me@brandonasuncion.dev
 facebook_username                         :                                           
@@ -28,7 +29,7 @@ instagram_username                        :
 twitter_username                          : 
 github_username                           : brandonasuncion
 youtube_username                          :
-
+copyright                                 : © 2020 Brandon Asuncion
 
 
 # Feature List                            Edit, add or remove features to be presented.
@@ -80,7 +81,7 @@ feature_icons_background_color            : "#202020"
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#86868b"
 
 
 
