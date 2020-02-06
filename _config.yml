@@ -34,6 +34,18 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Keep on top of things
+    description                           : See your daily events and reminders and coordinate across multiple days at a time.
+    fontawesome_icon_name                 : calendar-alt
+
+  - title                                 : Focus on your tasks
+    description                           : Card views give detailed information on your events and reminders.
+    fontawesome_icon_name                 : check
+
+  - title                                 : iCloud Sync
+    description                           : View and edit your calendars from multiple devices.
+    fontawesome_icon_name                 : cloud
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
