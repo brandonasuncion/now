@@ -21,7 +21,6 @@ enable_smart_app_banner                   : false                               
 # Information About Yourself
 your_name                                 : Brandon Asuncion                                
 your_link                                 : https://brandonasuncion.dev/                     
-your_link_footer                          : 
 your_city                                 : Los Angeles                                
 email_address                             : me@brandonasuncion.dev
 facebook_username                         :                                           
@@ -29,7 +28,10 @@ instagram_username                        :
 twitter_username                          : 
 github_username                           : brandonasuncion
 youtube_username                          :
-copyright                                 :
+
+
+copyright                                 : © 2020 Brandon Asuncion
+copyright_text_color                      : "#86868b"
 
 
 # Feature List                            Edit, add or remove features to be presented.
@@ -44,7 +46,7 @@ features                                  :
     fontawesome_icon_name                 : check
 
   - title                                 : iCloud Sync
-    description                           : Syncs over iCloud to view and edit your calendars from multiple devices.
+    description                           : Sync your calendars to organize your schedule from multiple devices.
     fontawesome_icon_name                 : cloud
 
   - title                                 : # New Feature Title
@@ -70,7 +72,7 @@ link_color                                : "#006fc9"
 
 app_title_color                           : "#000000"
 app_price_color                           : "#202020"
-app_description_color                     : "#000000"
+app_description_color                     : "#181818"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
