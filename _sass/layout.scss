@@ -623,6 +623,16 @@ footer {
 	padding-bottom: 70px;
 }
 
+.footerCopyright {
+	color: $footer-text-color;
+	display: block;
+	line-height: 1.5;
+	width: 100%;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
 .footerIcons {
 	padding-bottom: 70px;
 	display: flex;
@@ -666,6 +676,16 @@ footer {
 @media only screen and (max-width: 992px) {
 	
 	.footerText {
+		color: $footer-text-color;
+		display: block;
+		line-height: 1.5;
+		width: 100%;
+		text-align: center;
+		padding-top: 54px;
+		padding-bottom: 61px;
+	}
+
+	.footerCopyright {
 		color: $footer-text-color;
 		display: block;
 		line-height: 1.5;
