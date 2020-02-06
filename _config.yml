@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : check
 
   - title                                 : iCloud Sync
-    description                           : View and edit your calendars from multiple devices.
+    description                           : Syncs over iCloud to view and edit your calendars from multiple devices.
     fontawesome_icon_name                 : cloud
 
   - title                                 : # New Feature Title
@@ -74,8 +74,8 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#495057"
+feature_icons_background_color            : "#202020"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
