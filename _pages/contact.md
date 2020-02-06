@@ -2,6 +2,8 @@
 layout: page
 title: Contact
 include_in_header: true
+redirect_from:
+  - /support/
 ---
 
 # Contact
