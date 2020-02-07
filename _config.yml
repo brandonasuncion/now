@@ -94,8 +94,6 @@ footer_text_color                         : "#86868b"
 
 
 
-plugins:
-  - jekyll-redirect-from
 
 
 ####################################################
